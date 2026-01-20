@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sara Statoua</h1>
 <h3 align="center">A passionate computer science student from Denmark</h3>
 
-- 🌱 I’m currently learning **JavaScript, distribution network, T- and PL/SQL!**
+- 🌱 I’m currently learning **C#, System Integration and System Development Method! **
 
 - 💬 Ask me about **SQL!**
 
